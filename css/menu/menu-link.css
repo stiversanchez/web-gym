@@ -1,0 +1,12 @@
+.menu__link{
+    text-decoration: none;
+    transition: all ease-in .3s;
+    color: #fff;
+}
+
+.menu__link:hover{
+    text-decoration: underline 2px gold;
+    
+    font-size: 1.25rem;
+}
+

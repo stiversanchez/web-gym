@@ -1,0 +1,14 @@
+.decripcion__titulo{
+    font-size: 5rem;
+    line-height: 2.7rem;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.espaciado{
+    color: gold;
+    opacity: .4;
+    letter-spacing: 12px;
+}
+
+

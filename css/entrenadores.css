@@ -1,0 +1,5 @@
+.entrenadores{
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem 1px 0px 5rem;
+}

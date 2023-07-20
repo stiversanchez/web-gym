@@ -1,0 +1,12 @@
+.footer__link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer__link:hover{
+    color: gold;
+}
+
+.footer__link:active{
+    color: goldenrod;
+}

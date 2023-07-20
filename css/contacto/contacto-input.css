@@ -1,0 +1,36 @@
+.contacto__input{
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto__input__nombre, .contacto__input__email, .contacto__mensaje,.contacto__boton  {
+    margin-bottom: 1rem;
+    padding: .7rem;
+    width: 500px;
+    align-self: center;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: none;
+}
+.contacto__input__nombre, .contacto__input__email, .contacto__mensaje,.contacto__boton:focus  {
+    outline: none;
+}
+
+
+
+.contacto__boton{
+    background-color: #fdfdfd; 
+    padding: 10px 20px 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.contacto__boton:hover{
+    
+    opacity: .9;
+    transform: scale(1.2);
+}
+
+.contacto__boton:active{
+    background-color: aliceblue;
+}

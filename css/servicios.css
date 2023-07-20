@@ -1,0 +1,7 @@
+.servicios{
+    display: flex;
+    flex-wrap: wrap;
+    background: url(/img/desktop-wallpaper-gym-backgrounds.jpg) no-repeat center;
+    background-size: cover;
+    padding: 5rem 0px 0px 5rem;
+}

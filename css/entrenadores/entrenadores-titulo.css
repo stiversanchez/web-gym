@@ -1,0 +1,15 @@
+.entrenador__titulo{
+    display: block;
+    text-align: center;
+    margin:1rem 0 1rem 0;
+}
+
+.entrenadores__titulo{
+    font-size: 3rem;
+    color: #fff;
+}
+
+.entrenadores__division{
+    margin-top: 1rem;
+    
+}

@@ -1,0 +1,16 @@
+.caja{
+    display: grid;
+    grid-template-columns: 2fr;
+    background: url(/img/istockphoto-1287504319-612x612.jpg) center no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.caja1, .caja2{
+    display: flex;                                  
+    justify-content: space-around;
+    margin-top: 4rem ;
+    margin-left: 0;
+    align-items: center;
+}
+

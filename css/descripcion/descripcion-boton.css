@@ -1,0 +1,20 @@
+.decripcion__btn{
+    padding: 20px 30px 20px 30px;
+    background-color: gold;
+    border: none;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 100px 0 100px 0;
+    cursor: pointer;
+    transition: all 1s ;
+    
+}
+
+.decripcion__btn:hover{
+    opacity: .9;
+    transform: scale(1.2);
+}
+
+.decripcion__btn:active{
+    background-color: goldenrod;
+}

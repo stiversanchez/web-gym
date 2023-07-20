@@ -1,0 +1,8 @@
+.membresia{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-right: 5rem;
+    padding: 2rem;
+    
+}

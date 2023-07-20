@@ -1,0 +1,9 @@
+/* .membresia__contenedor{
+    display: block;
+} */
+
+.membresia__titulo{ 
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: 3rem;
+}
